@@ -1,0 +1,17 @@
+
+
+.rect {
+    display: block;
+    background-color: black;
+
+    width: 100px;
+    height: 50px;
+}
+
+.rect.a {
+    background-color:red;
+}
+
+svg {
+    border: 1px solid red;
+}
